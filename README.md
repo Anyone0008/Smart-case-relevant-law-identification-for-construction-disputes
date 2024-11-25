@@ -6,7 +6,7 @@
 <video src="https://github.com/user-attachments/assets/f03da316-8077-4cd3-b772-e4305deecc7e" controls="controls" width="500" height="300"></video>
 ↑↑↑ The fine-tuning process with the easy-to-use interface
 
-<video src="https://github.com/JasonMing-mi/Smart-case-relevant-law-identification-for-construction-disputes/blob/03cdaf828d619694297c153d3f8f673fd813b84e/Video%202%20The%20act-article%20law%20identification%20process%20with%20the%20easy-to-use%20interface.mp4" controls="controls" width="500" height="300"></video>
+<video src="https://github.com/user-attachments/assets/53aca846-2689-40e2-b607-58c4a28677fd" controls="controls" width="500" height="300"></video>
 ↑↑↑ The act-article law identification process with the easy-to-use interface
 
 # 1. General introduction of this repository
