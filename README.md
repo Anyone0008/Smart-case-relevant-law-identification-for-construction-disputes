@@ -6,7 +6,7 @@
 <video src="https://github.com/user-attachments/assets/f03da316-8077-4cd3-b772-e4305deecc7e" controls="controls" width="500" height="300"></video>
 ↑↑↑ The fine-tuning process with the easy-to-use interface
 
-<video src="https://github.com/user-attachments/assets/53aca846-2689-40e2-b607-58c4a28677fd" controls="controls" width="500" height="300"></video>
+<video src="https://github.com/user-attachments/assets/80dca26a-4292-4917-9b84-cfdc1353ebdd" controls="controls" width="500" height="300"></video>
 ↑↑↑ The act-article law identification process with the easy-to-use interface
 
 # 1. General introduction of this repository
