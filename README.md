@@ -3,7 +3,8 @@
 ## !!! As the paper is under review, all materials in this repository currently are not allowed to be re-used by anyone until this announcement is deleted.
 
 # 0. Videos of running easy-to-use interface to fine-tune LLMs and identify relevant acts and articles
-[![Video 1 The fine-tuning process with the easy-to-use interface]](https://github.com/JasonMing-mi/Smart-case-relevant-law-identification-for-construction-disputes/blob/03cdaf828d619694297c153d3f8f673fd813b84e/Video%201%20The%20fine-tuning%20process%20with%20the%20easy-to-use%20interface.mp4)
+<video src="[https://user-images.githubusercontent.com/28604639/146938627-beb71c68-b6d6-4d9f-a7eb-2d23c5b95e14.mov](https://github.com/JasonMing-mi/Smart-case-relevant-law-identification-for-construction-disputes/blob/03cdaf828d619694297c153d3f8f673fd813b84e/Video%201%20The%20fine-tuning%20process%20with%20the%20easy-to-use%20interface.mp4)" controls="controls" style="max-width: 730px;">
+</video>
 
 ↑↑↑ The fine-tuning process with the easy-to-use interface
 
