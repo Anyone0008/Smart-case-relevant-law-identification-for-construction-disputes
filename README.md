@@ -3,7 +3,7 @@
 ## !!! As the paper is under review, all materials in this repository currently are not allowed to be re-used by anyone until this announcement is deleted.
 
 # 0. Videos of running easy-to-use interface to fine-tune LLMs and identify relevant acts and articles
-https://github.com/user-attachments/assets/6946212f-9cea-4dd3-ac84-9a22453eff8d
+
 ↑↑↑ The fine-tuning process with the easy-to-use interface
 
 ↑↑↑ The act-article law identification process with the easy-to-use interface
@@ -24,5 +24,7 @@ The easy-to-use interface is supported by LLaMA-Factory (https://github.com/hiyo
 <img width="808" alt="1613ba6adffb3b4d3fa506ec6f345f0" src="https://github.com/user-attachments/assets/6e9bec9f-b16e-4ac8-9231-a3e0944c0ca9">
 
 # 4. Reuse of the test dataset for construction case-relevant article-level law identification
-The test dataset includes
+The test dataset includes 15,549 real-world construction-related cases, and each case is dissected and labelled for "Facts", "Case types", "Cited acts", "Cited articles", and "Cited articles with specific content".
+![image](https://github.com/user-attachments/assets/7bf44bca-1b24-4004-9fec-d1ae0075c094)
+
 
