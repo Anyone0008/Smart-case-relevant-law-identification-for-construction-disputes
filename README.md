@@ -18,10 +18,10 @@
 
 # 2. Summary of supplemental materials in this repository
 The table below shows all supplemental materials.
-<img width="1001" alt="1d15719155851eea840904bc3863857" src="https://github.com/user-attachments/assets/ff1c4c50-5592-47f7-a46a-5286bae54ba6">
+<img width="994" alt="9515491363989e86e55e745e9bd2132" src="https://github.com/user-attachments/assets/054e3fd5-846d-43d4-a2f5-d50cca5708fe">
 
-# 3. Deployed prototype of the LLaMA-Factory
-The easy-to-use interface is supported by LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory). You can start with the instruction shown in the repository.
+# 3. Prototype of article-level law identification for construction cases
+The deploy of the easy-to-use interface in paper is based on LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory). You can start with the instruction shown in the repository.
 <img width="808" alt="1613ba6adffb3b4d3fa506ec6f345f0" src="https://github.com/user-attachments/assets/6e9bec9f-b16e-4ac8-9231-a3e0944c0ca9">
 
 # 4. Reuse of the test dataset for construction case-relevant article-level law identification
