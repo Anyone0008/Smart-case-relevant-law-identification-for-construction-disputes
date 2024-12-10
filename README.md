@@ -12,7 +12,7 @@
 # 1. General introduction of this repository
 1.1 This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by the XXX university in China, The University of XX in Hong Kong SAR.
 
-1.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Baichuan-inc(https://huggingface.co/baichuan-inc),LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory), ChatGLM3-6b (https://huggingface.co/THUDM/chatglm3-6b), Qwen (https://huggingface.co/Qwen), numpy, and so on. Our work stands on the shoulders of these giants
+1.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Baichuan-inc (https://huggingface.co/baichuan-inc), LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory), ChatGLM3-6b (https://huggingface.co/THUDM/chatglm3-6b), Qwen (https://huggingface.co/Qwen), numpy, and so on. Our work stands on the shoulders of these giants
 
 1.3 All of the codes have been tested to be well-performed. Even so, we are not able to guarantee their operation in other computing environments due to the differences in the Python version, computer operating system, and adopted hardware.
 
@@ -24,8 +24,8 @@ The table below shows all supplemental materials.
 The deploy of the easy-to-use interface in paper is based on LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory). You can start with the instruction shown in the repository.
 <img width="808" alt="1613ba6adffb3b4d3fa506ec6f345f0" src="https://github.com/user-attachments/assets/6e9bec9f-b16e-4ac8-9231-a3e0944c0ca9">
 
-# 4. Reuse of the test dataset for construction case-relevant article-level law identification
-The test dataset includes 15,549 real-world construction-related cases, and each case is dissected and labelled for "Facts", "Case types", "Cited acts", "Cited articles", and "Cited articles with specific content".
-![image](https://github.com/user-attachments/assets/7bf44bca-1b24-4004-9fec-d1ae0075c094)
+# 4. Reuse of the construction case dataset
+The dataset includes 81,472 real-world construction-related cases, and each case is dissected and labelled for "Facts", "Case types", "Cited acts", "Cited articles", and "Cited articles with specific content".
+<img width="547" alt="b59aee2f2d8e17e3df5bae03ac21c08" src="https://github.com/user-attachments/assets/e04b69cb-05b3-49a3-a31b-c6ec58c83819">
 
 
