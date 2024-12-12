@@ -18,7 +18,8 @@
 
 # 2. Summary of supplemental materials in this repository
 The table below shows all supplemental materials.
-<img width="994" alt="9515491363989e86e55e745e9bd2132" src="https://github.com/user-attachments/assets/054e3fd5-846d-43d4-a2f5-d50cca5708fe">
+<img width="952" alt="3092ad9b0b55c607800bf1737304448" src="https://github.com/user-attachments/assets/38666214-c376-4c1a-a534-fb56b76d60ba" />
+
 
 # 3. Prototype of article-level law identification for construction cases
 The deploy of the easy-to-use interface in paper is based on LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory). You can start with the instruction shown in the repository.
@@ -26,6 +27,7 @@ The deploy of the easy-to-use interface in paper is based on LLaMA-Factory (http
 
 # 4. Reuse of the construction case dataset
 The dataset includes 81,472 real-world construction-related cases, and each case is dissected and labelled for "Facts", "Case types", "Cited acts", "Cited articles", and "Cited articles with specific content".
-<img width="547" alt="b59aee2f2d8e17e3df5bae03ac21c08" src="https://github.com/user-attachments/assets/e04b69cb-05b3-49a3-a31b-c6ec58c83819">
+<img width="556" alt="a959c3aa9b602825ce4f2f4c7f080a1" src="https://github.com/user-attachments/assets/3b3d8f91-9aa3-4fa6-bd4b-dabac352f256" />
+
 
 
