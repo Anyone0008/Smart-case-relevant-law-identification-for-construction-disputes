@@ -70,7 +70,7 @@ for file_path in excel_files:
         # 添加性能指标到DataFrame
         filtered_df["Precision_f"] = precision
         filtered_df["Recall_f"] = recall
-        filtered_df["得分"] = (precision + recall) / 2
+        filtered_df["得分"] = 2* (precision * recall) / (precision + recall)
 
         # 构建输出文件路径
         output_file_path = os.path.join(subfolder_path, f"{keyword}_{file_name}")
