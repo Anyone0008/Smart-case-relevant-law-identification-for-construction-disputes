@@ -39,7 +39,7 @@ def process_file(file_path):
     # 计算样本级别的Precision、Recall和F1分数
     df["Precision"] = precision_score(true_labels_bin, predicted_labels_bin, average="samples")
     df["Recall"] = recall_score(true_labels_bin, predicted_labels_bin, average="samples")
-    df["F1 Score"] = (df["Recall"] + df["Precision"]) / 2
+    df["F1 Score"] = 2 * (df["Recall"] * df["Precision"]) / (df["Recall"] + df["Precision"])
 
     return df
 
