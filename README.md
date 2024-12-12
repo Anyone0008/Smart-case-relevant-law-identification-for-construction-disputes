@@ -27,7 +27,7 @@ The deploy of the easy-to-use interface in paper is based on LLaMA-Factory (http
 
 # 4. Reuse of the construction case dataset
 The dataset includes 81,472 real-world construction-related cases, and each case is dissected and labelled for "Facts", "Case types", "Cited acts", "Cited articles", and "Cited articles with specific content".
-<img width="556" alt="a959c3aa9b602825ce4f2f4c7f080a1" src="https://github.com/user-attachments/assets/3b3d8f91-9aa3-4fa6-bd4b-dabac352f256" />
+<img width="651" alt="fd372d28d82be95e722684b5a60820f" src="https://github.com/user-attachments/assets/06554dc5-cb0f-44e1-8226-053d5315d4ad" />
 
 
 
