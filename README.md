@@ -24,10 +24,15 @@ The table below shows all supplemental materials.
 # 3. Prototype of article-level law identification for construction cases
 The deploy of the easy-to-use interface in paper is based on LLaMA-Factory (https://github.com/hiyouga/LLaMA-Factory). You can start with the instruction shown in the repository.
 <img width="808" alt="1613ba6adffb3b4d3fa506ec6f345f0" src="https://github.com/user-attachments/assets/6e9bec9f-b16e-4ac8-9231-a3e0944c0ca9">
+
 3.1 Download original model, such as Qwen1.5-14B-Chat (https://huggingface.co/Qwen/Qwen1.5-14B-Chat).
+
 3.2 Create a folder named by the original model in the desired directory like "/LLaMA-Factory/saves/Qwen1.5-14B-Chat/lora"
-3.2 Download the act-level identification and article-level identification models from Google Drive (https://drive.google.com/drive/folders/1T58vR0lq8g_RBs9Be_7lpeJ48dSLRPU_?usp=drive_link)
+
+3.3 Download the act-level identification and article-level identification models from Google Drive (https://drive.google.com/drive/folders/1T58vR0lq8g_RBs9Be_7lpeJ48dSLRPU_?usp=drive_link)
+
 3.4 Place the downloaded models into the newly created folder.
+
 3.5 Run src/train_web.py to start the law identification models.
 
 
