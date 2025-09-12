@@ -41,7 +41,7 @@ for filename in os.listdir(source_dir):
         # 添加性能指标到数据框
         df["Precision"] = precision
         df["Recall"] = recall
-        df["F1 Score"] = (precision + recall) / 2
+        df["F1 Score"] = 2* (precision * recall) / (precision + recall)
 
 
         # 保存结果到目标文件夹
