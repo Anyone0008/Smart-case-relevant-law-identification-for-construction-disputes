@@ -3,6 +3,7 @@
 ## !!! As the paper is under review, all materials in this repository currently are not allowed to be re-used by anyone until this announcement is deleted.
 
 # 0. Videos of running easy-to-use interface to fine-tune LLMs and identify relevant acts and articles
+To avoid potential video quality reduction mentioned in the README, please download the video directly from the repository above.
 <video src="https://github.com/user-attachments/assets/f03da316-8077-4cd3-b772-e4305deecc7e" controls="controls" width="500" height="300"></video>
 ↑↑↑ The fine-tuning process with the easy-to-use interface
 
