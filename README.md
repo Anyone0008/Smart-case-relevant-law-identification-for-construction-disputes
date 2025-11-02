@@ -4,10 +4,10 @@
 
 # 0. Videos of running easy-to-use interface to fine-tune LLMs and identify relevant acts and articles
 To avoid potential video quality reduction mentioned in the README, please download the video directly from the repository above.
-<video src="https://github.com/user-attachments/assets/f03da316-8077-4cd3-b772-e4305deecc7e" controls="controls" width="500" height="300"></video>
+<video src="[https://github.com/user-attachments/assets/bbc7e998-7fdb-4053-a4b7-2e3fb071e0ac]" controls="controls" width="500" height="300"></video>
 ↑↑↑ The fine-tuning process with the easy-to-use interface
 
-<video src="https://github.com/user-attachments/assets/80dca26a-4292-4917-9b84-cfdc1353ebdd" controls="controls" width="500" height="300"></video>
+<video src="[https://github.com/user-attachments/assets/733c8baa-b868-4c5f-a394-0dc99a76af1a]" controls="controls" width="500" height="300"></video>
 ↑↑↑ The act-article law identification process with the easy-to-use interface
 
 # 1. General introduction of this repository
